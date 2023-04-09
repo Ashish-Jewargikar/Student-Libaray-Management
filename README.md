@@ -10,7 +10,7 @@ Features
 
 Requirements
     
-    Spring boot Initiliser
+    Spring Boot Initializer https://start.spring.io/
     Java 11 or higher
     MySQL
     SMTP server (for email notifications)
